@@ -1,8 +1,13 @@
-.seccion1 {
-    padding: 48px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    
+.contenido h2 {
+    color: black;
+}
 
+.img1 {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
 }

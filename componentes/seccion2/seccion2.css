@@ -1,0 +1,12 @@
+.barra-lateral h2 {
+    color: black;
+}
+
+.barra-lateral ul {
+    padding-left: 15px;
+}
+
+.barra-lateral ul li {
+    background: white;
+    padding: 10px;
+}

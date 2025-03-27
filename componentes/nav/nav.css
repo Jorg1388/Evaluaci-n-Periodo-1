@@ -1,0 +1,11 @@
+nav {
+    background: gray;
+    padding: 10px;
+    text-align: center;
+}
+
+
+nav ul li  {
+    color: white;
+    padding: 5px;
+}
